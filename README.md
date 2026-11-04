@@ -28,13 +28,23 @@
 
 ---
 
-### 📌 Projetos & Laboratórios em Destaque
+### 📂 Estrutura de Repositórios
 
-- 💻 **[InsightFlow](https://github.com/PedroCardoso16/InsightFlow)** 
-  Sistema web corporativo para gestão de demandas com dashboard analítico (C#, .NET, Blazor, SQL Server, JWT).
+#### 🛡️ Cibersegurança, Redes & Infra (RSD - SEG)
+- [RSD-seguranca](./RSD-seguranca) — Laboratórios práticos de Wireshark, Firewalls no Linux e testes de segurança.
 
-- 🛡️ **Cybersecurity-Network-Labs** *(Em construção)* 
-  Repositório dedicado à documentação dos meus laboratórios práticos, abrangendo desde análise de pacotes no Wireshark até regras de firewall no Linux.
+#### 📚 Estruturas de Dados (ESD - Estudo)
+- [ESD-estudos](./ESD-estudos) — Exercícios, algoritmos e ponteiros em C.
+
+#### 🎓 Faculdade (FAETERJ-RIO)
+- [Sistema_Analise_Vagas](./Sistema_Alanlise_Vagas) — Projeto de Monografia / ADS.
+- [Pokedex-Pessoal](./Pokedex-Pessoal) — Projeto de POO em Java.
+
+#### 🚀 Projetos Pessoais
+- [InsightFlow](./InsightFlow) — Dashboard de gestão (.NET / Blazor / JWT).
+
+#### 💼 Trabalho (FAETEC)
+- *(Projetos privados ou organizados sob a organização @DGI-FAETEC)*
 
 ---
 
