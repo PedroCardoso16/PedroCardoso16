@@ -30,5 +30,5 @@
 ---
 
 ### 📫 Como me contactar:
-- **LinkedIn:** [Aceda ao meu perfil]([https://linkedin.com/in/SEU-LINKEDIN-AQUI](https://www.linkedin.com/in/pedro-cardoso-267454398/))
-- **E-mail:** [seu-email@exemplo.com](mailto:pedrocostacardoso@outlook.com.br)
+- **LinkedIn:** [Aceda ao meu perfil]((https://www.linkedin.com/in/pedro-cardoso-267454398/))
+- **E-mail:** [pedrocostacardoso@outlook.com.br](mailto:pedrocostacardoso@outlook.com.br)
